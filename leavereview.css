@@ -62,15 +62,9 @@ text-align: left;
   background-color: rgb(177, 177, 177);
   border: 2px solid rgb(255, 254, 254);
   padding: 10px;
-<<<<<<< HEAD
   max-width: 1075px;
   text-align: left;
   }
-=======
-  max-width: 1900px;
-  text-align: center;
-}
->>>>>>> 264404605337c28f38a289ba99f6c602c1807847
 
 .img{
 position: fixed;
@@ -92,7 +86,6 @@ bottom: 750px;
 }
 
 
-<<<<<<< HEAD
   .ps{
     background-color: rgb(177, 177, 177);
     border: 2px solid rgb(255, 254, 254);
@@ -120,5 +113,3 @@ bottom: 750px;
     left: 600px;
   }
   
-=======
->>>>>>> 264404605337c28f38a289ba99f6c602c1807847
