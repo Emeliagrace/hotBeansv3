@@ -123,3 +123,22 @@ border: 2px solid rgb(255, 254, 254);
 padding: 10px;
 max-width: 600px;
 }
+
+.imgrev{
+
+}
+
+
+.hirerev{
+  background-color: rgb(177, 177, 177);
+border: 2px solid rgb(255, 254, 254);
+padding: 10px;
+max-width: 600px;
+}
+
+.whorev{
+  background-color: rgb(177, 177, 177);
+  border: 2px solid rgb(255, 254, 254);
+  padding: 10px;
+  max-width: 600px;
+}
