@@ -32,12 +32,12 @@ position: sticky;
 
 
 .topnav input[type=text] {
-    float: right;
-    padding: 6px;
-    border: none;
-    margin-top: 8px;
-    margin-right: 16px;
-    font-size: 17px;
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
   }
 
   .topnav a:hover {
@@ -71,7 +71,6 @@ position: sticky;
 .formtwo{
   position: relative;
   left: 600px;
-
   float: right;
   padding: 6px;
   border: none;
@@ -132,9 +131,9 @@ text-align: center;
 }
 
 .employee{
-  position: relative;
-  left: 1300px;
-  bottom: 1300px; 
+position: relative;
+left: 1300px;
+bottom: 1300px; 
 }
 
 h4{
