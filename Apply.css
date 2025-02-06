@@ -129,14 +129,13 @@ border: 2px solid rgb(255, 254, 254);
 padding: 10px;
 max-width: 550px;
 text-align: center;
-position: relative;
-left: 1300px;
-bottom: 100px; 
-position: relative;
-left: 1300px;
-bottom: 1300px; 
 }
 
+.employee{
+  position: relative;
+  left: 1300px;
+  bottom: 1300px; 
+}
 
 h4{
 font-size: x-large;
@@ -152,8 +151,6 @@ max-width: 1900px;
 text-align: center;
 }
 .rights{
-  position: relative;
-  bottom: 1400px;
 position: relative;
 bottom: 1400px;
 }
