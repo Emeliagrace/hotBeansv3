@@ -42,7 +42,6 @@ h1{
 }
 
 
-<<<<<<< HEAD
   .topbox{
     background-color: rgb(177, 177, 177);
     border: 2px solid rgb(255, 254, 254);
@@ -119,7 +118,7 @@ h1{
     position: relative;
     bottom: 690px;
   }
-=======
+
 .topbox{
   background-color: rgb(177, 177, 177);
   border: 2px solid rgb(255, 254, 254);
@@ -197,5 +196,3 @@ height: 600px;
   bottom: 690px;
 }
 
-
->>>>>>> 264404605337c28f38a289ba99f6c602c1807847
