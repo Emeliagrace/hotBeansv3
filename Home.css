@@ -1,0 +1,147 @@
+
+
+
+body{
+    background-color:rgb(170, 170, 170);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding:10px;
+    color:rgb(255, 255, 255); /*adding font color*/
+}
+
+h1{
+    
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 45px;
+    background-color: dimgray;
+
+}
+
+.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 15%;
+    background-color: #f1f1f1;
+    height: 100%; /* Full height */
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: auto; /* Enable scrolling if the sidenav has too much content */
+  }
+
+  .topnav a {
+   
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 45px;
+    background-color: dimgray;
+  }
+  .topnav {
+    overflow: hidden;
+    background-color: dimgrey;
+  }
+
+
+.topnav input[type=text] {
+    float: left;
+    padding: 10px;
+    border: none;
+    margin-top: 9px;
+    margin-right: 16px;
+    font-size: 17px;
+    position: relative;
+    bottom: 30px;
+  }
+
+  .topnav a:hover {
+    color: rgb(255, 105, 105);
+  }
+
+  .img{
+    position: relative;
+    left: 300px;
+    bottom: 270px;
+  }
+
+  .who{
+    background-color: rgb(177, 177, 177);
+    border: 2px solid rgb(255, 254, 254);
+    padding: 10px;
+    max-width: 900px;
+    font-size: larger;
+  }
+    
+ .who{
+  position: relative;
+  top: 15px;
+  left: 920px;
+ }
+  
+ .steps{
+  background-color: rgb(177, 177, 177);
+  border: 2px solid rgb(255, 254, 254);
+  padding: 10px;
+  max-width: 1505px;
+  font-size: larger;
+  font-weight: 800;
+  text-align: center;
+}
+
+.steps{
+  position: relative;
+  top: 200px;
+  left: 315px;
+}
+
+ 
+
+.hire{
+  background-color: rgb(177, 177, 177);
+  border: 2px solid rgb(255, 254, 254);
+  padding: 10px;
+  max-width: 830px;
+  font-size: larger;
+}
+
+.hire{
+  position: relative;
+  bottom: 270px;
+  left: 320px;
+}
+
+ .contactbox{
+  background-color: rgb(177, 177, 177);
+  border: 2px solid rgb(255, 254, 254);
+  padding: 10px;
+  max-width: 600px;
+}
+  
+.contactbox{
+  position: relative;
+  bottom: 590px;
+  left: 1220px;
+}
+
+ h2{
+  font-weight: 900;
+}
+
+
+ 
+ .rights{
+  background-color: rgb(177, 177, 177);
+  border: 2px solid rgb(255, 254, 254);
+  padding: 10px;
+  max-width: 1500px;
+  text-align: center;
+}
+.rights{
+  position: relative;
+  bottom: 400px;
+  left: 320px;
+}
