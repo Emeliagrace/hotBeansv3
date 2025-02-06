@@ -32,7 +32,6 @@ position: sticky;
 
 
 .topnav input[type=text] {
-<<<<<<< HEAD
     float: right;
     padding: 6px;
     border: none;
@@ -72,14 +71,13 @@ position: sticky;
 .formtwo{
   position: relative;
   left: 600px;
-=======
+
   float: right;
   padding: 6px;
   border: none;
   margin-top: 8px;
   margin-right: 16px;
   font-size: 17px;
->>>>>>> 264404605337c28f38a289ba99f6c602c1807847
 }
 
 .topnav a:hover {
@@ -134,15 +132,12 @@ text-align: center;
 }
 
 .employee{
-<<<<<<< HEAD
   position: relative;
   left: 1300px;
   bottom: 1300px; 
-=======
 position: relative;
 left: 1300px;
 bottom: 1300px; 
->>>>>>> 264404605337c28f38a289ba99f6c602c1807847
 }
 
 h4{
@@ -159,10 +154,8 @@ max-width: 1900px;
 text-align: center;
 }
 .rights{
-<<<<<<< HEAD
   position: relative;
   bottom: 1400px;
-=======
 position: relative;
 bottom: 1400px;
 }
@@ -178,7 +171,6 @@ font-size: large;
 position: relative;
 bottom: 530px;
 left: 1300px;
->>>>>>> 264404605337c28f38a289ba99f6c602c1807847
 }
 
 .jobspecs{
