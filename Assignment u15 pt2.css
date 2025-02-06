@@ -125,7 +125,8 @@ max-width: 600px;
 }
 
 .imgrev{
-
+position: relative;
+left: 399px;
 }
 
 
