@@ -47,16 +47,18 @@ position: sticky;
     font-size: large;
   }
 
-  .salarynew{
+  .salary{
     background-color: rgb(177, 177, 177);
     border: 2px solid rgb(255, 254, 254);
     padding: 10px;
     max-width: 505px;
     text-align: left;
+  }
+  
+  .salary{
     position: relative;
     bottom: 199px;
   }
-
   .formtwo{
     background-color: rgb(177, 177, 177);
     border: 2px solid rgb(255, 254, 254);
