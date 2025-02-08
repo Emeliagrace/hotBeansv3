@@ -70,7 +70,7 @@ position: sticky;
     margin-right: 16px;
     font-size: 17px;
     position: relative;
-    left: 300px;
+    left: 100px;
   }
 
 
@@ -100,8 +100,8 @@ padding: 10px;
 max-width: 550px;
 text-align: center;
 position: relative;
-bottom: 130px;
-right: 100px;
+bottom: 30px;
+left: 100px;
 }
 
 
@@ -132,6 +132,6 @@ font-size: large;
 }
 .jobspecs{
 position: relative;
-bottom: 130px;
+bottom: 30px;
 left: 1300px;
 }
