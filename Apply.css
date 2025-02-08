@@ -86,30 +86,6 @@ position: sticky;
   font-size: large;
 }
 
-.salary{
-  background-color: rgb(177, 177, 177);
-  border: 2px solid rgb(255, 254, 254);
-  padding: 10px;
-  max-width: 505px;
-  text-align: left;
-}
-
-.salary{
-  position: relative;
-  bottom: 1499px;
-}
-
-.formtwo{
-  background-color: rgb(177, 177, 177);
-  border: 2px solid rgb(255, 254, 254);
-  padding: 10px;
-  max-width: 605px;
-  text-align: left;
-}
-.formtwo{
-position: relative;
-left: 600px;
-}
 
 h5{
 font-size: x-large;
@@ -163,17 +139,4 @@ font-size: large;
 position: relative;
 bottom: 530px;
 left: 1300px;
-}
-
-.jobspecs{
-  background-color: rgb(177, 177, 177);
-  border: 2px solid rgb(255, 254, 254);
-  padding: 10px;
-  max-width: 530px;
-  font-size: large;
-}
-.jobspecs{
-  position: relative;
-  bottom: 530px;
-  left: 1300px;
 }
