@@ -81,7 +81,7 @@ bottom: 750px;
   }
   .rightsrev{
   position: relative;
-  bottom: 500px;
+  bottom: 100px;
   }
 
 
@@ -103,6 +103,8 @@ bottom: 750px;
   background-color: rgb(177, 177, 177);
   border: 2px solid rgb(255, 254, 254);
   padding: 10px;
-  max-width: 1900px;
+  max-width: 1000px;
   text-align: center;
+  position: relative;
+  top: 200px;
 }
