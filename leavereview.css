@@ -103,9 +103,9 @@ bottom: 750px;
   background-color: rgb(177, 177, 177);
   border: 2px solid rgb(255, 254, 254);
   padding: 10px;
-  max-width: 800px;
+  max-width: 700px;
   text-align: center;
   position: relative;
  bottom: 700px;
- left: 200px;
+ right: 400px;
 }

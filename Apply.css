@@ -47,17 +47,14 @@ position: sticky;
     font-size: large;
   }
 
-  .salary{
+  .salarynew{
     background-color: rgb(177, 177, 177);
     border: 2px solid rgb(255, 254, 254);
     padding: 10px;
     max-width: 505px;
     text-align: left;
-  }
-
-  .salary{
     position: relative;
-    bottom: 1499px;
+    bottom: 199px;
   }
 
   .formtwo{
@@ -66,15 +63,14 @@ position: sticky;
     padding: 10px;
     max-width: 605px;
     text-align: left;
+    float: right;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+    position: relative;
+    left: 700px;
   }
-.formtwo{
-  position: relative;
-  left: 600px;
-  float: right;
-  margin-top: 8px;
-  margin-right: 16px;
-  font-size: 17px;
-}
+
 
 .topnav a:hover {
   color: rgb(255, 105, 105);
