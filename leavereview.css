@@ -107,7 +107,7 @@ bottom: 750px;
   text-align: center;
   position: relative;
  bottom: 600px;
- left: 600px;
+ left: 900px;
 }
 
 .whorev{
@@ -116,5 +116,6 @@ bottom: 750px;
   padding: 10px;
   max-width: 700px;
   text-align: left;
-  
+  position: relative;
+  top: 10px;
 }
