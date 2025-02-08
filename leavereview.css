@@ -72,18 +72,17 @@ left: 1150px;
 bottom: 750px;
 }
 
-.rights{
+.rightsrev{
   background-color: rgb(177, 177, 177);
   border: 2px solid rgb(255, 254, 254);
   padding: 10px;
   max-width: 1900px;
   text-align: center;
-}
-.rights{
-  position: fixed;
-  top: 1200px;
-  left: 600px;
-}
+  }
+  .rightsrev{
+  position: relative;
+  bottom: 500px;
+  }
 
 
   .ps{
@@ -100,16 +99,10 @@ bottom: 750px;
   bottom: 750px;
 }
 
-  .rights{
-    background-color: rgb(177, 177, 177);
-    border: 2px solid rgb(255, 254, 254);
-    padding: 10px;
-    max-width: 1900px;
-    text-align: center;
-  }
-  .rights{
-    position: fixed;
-    top: 1200px;
-    left: 600px;
-  }
-  
+.hirerev{
+  background-color: rgb(177, 177, 177);
+  border: 2px solid rgb(255, 254, 254);
+  padding: 10px;
+  max-width: 1900px;
+  text-align: center;
+}

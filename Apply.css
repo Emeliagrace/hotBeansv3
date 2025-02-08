@@ -70,14 +70,12 @@ position: sticky;
 .formtwo{
   position: relative;
   left: 600px;
-=======
   float: right;
   padding: 6px;
   border: none;
   margin-top: 8px;
   margin-right: 16px;
   font-size: 17px;
->>>>>>> 264404605337c28f38a289ba99f6c602c1807847
 }
 
 .topnav a:hover {
@@ -135,7 +133,6 @@ text-align: center;
 position: relative;
 left: 1300px;
 bottom: 1300px; 
->>>>>>> 264404605337c28f38a289ba99f6c602c1807847
 }
 
 h4{
@@ -143,18 +140,17 @@ font-size: x-large;
 font-weight: 800;
 }
 
-
 .rights{
-background-color: rgb(177, 177, 177);
-border: 2px solid rgb(255, 254, 254);
-padding: 10px;
-max-width: 1900px;
-text-align: center;
-}
-.rights{
-position: relative;
-bottom: 1400px;
-}
+  background-color: rgb(177, 177, 177);
+  border: 2px solid rgb(255, 254, 254);
+  padding: 10px;
+  max-width: 1900px;
+  text-align: center;
+  }
+  .rights{
+  position: relative;
+  bottom: 500px;
+  }
 
 .jobspecs{
 background-color: rgb(177, 177, 177);
@@ -167,7 +163,6 @@ font-size: large;
 position: relative;
 bottom: 530px;
 left: 1300px;
->>>>>>> 264404605337c28f38a289ba99f6c602c1807847
 }
 
 .jobspecs{
