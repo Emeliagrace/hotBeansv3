@@ -53,8 +53,8 @@ text-align: left;
 
 .writerev{
   position: relative;
-  left: 0px;
-  top: 40px;
+  left: 500px;
+  bottom: 300px;
 }
 
 
@@ -106,7 +106,7 @@ bottom: 750px;
   max-width: 700px;
   text-align: center;
   position: relative;
- bottom: 600px;
+ bottom: 300px;
  left: 900px;
 }
 
