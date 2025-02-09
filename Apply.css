@@ -100,7 +100,7 @@ padding: 10px;
 max-width: 550px;
 text-align: center;
 position: relative;
-bottom: 510px;
+bottom: 530px;
 left: 1100px;
 }
 
@@ -133,5 +133,5 @@ font-size: large;
 .jobspecs{
 position: relative;
 top: 280px;
-left: 1180px;
+left: 1100px;
 }

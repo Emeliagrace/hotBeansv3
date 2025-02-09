@@ -47,13 +47,13 @@ h1{
   background-color: rgb(177, 177, 177);
 border: 2px solid rgb(255, 254, 254);
 padding: 10px;
-max-width: 575px;
+max-width: 700px;
 text-align: left;
 }
 
 .writerev{
   position: relative;
-  left: 800px;
+  left: 900px;
   bottom: 300px;
 }
 
@@ -89,11 +89,6 @@ text-align: left;
     text-align: center;
   }
 
-.img{
-  position: fixed;
-  left: 1150px;
-  bottom: 750px;
-}
 
 .hirerev{
   background-color: rgb(177, 177, 177);
