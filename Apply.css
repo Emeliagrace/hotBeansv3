@@ -57,7 +57,7 @@ position: sticky;
   
   .salary{
     position: relative;
-    bottom: 499px;
+    bottom: 599px;
   }
   .formtwo{
     background-color: rgb(177, 177, 177);
@@ -70,7 +70,7 @@ position: sticky;
     margin-right: 16px;
     font-size: 17px;
     position: relative;
-    right: 200px;
+    right: 300px;
   }
 
 
@@ -100,8 +100,8 @@ padding: 10px;
 max-width: 550px;
 text-align: center;
 position: relative;
-bottom: 300px;
-left: 500px;
+bottom: 400px;
+left: 600px;
 }
 
 
@@ -133,5 +133,5 @@ font-size: large;
 .jobspecs{
 position: relative;
 bottom: 0px;
-left: 1300px;
+left: 1200px;
 }
