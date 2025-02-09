@@ -47,14 +47,14 @@ h1{
   background-color: rgb(177, 177, 177);
 border: 2px solid rgb(255, 254, 254);
 padding: 10px;
-max-width: 700px;
+max-width: 720px;
 text-align: left;
 }
 
 .writerev{
   position: relative;
-  left: 900px;
-  bottom: 300px;
+  left: 890px;
+  bottom: 270px;
 }
 
 
