@@ -47,14 +47,14 @@ h1{
   background-color: rgb(177, 177, 177);
 border: 2px solid rgb(255, 254, 254);
 padding: 10px;
-max-width: 775px;
+max-width: 575px;
 text-align: left;
 }
 
 .writerev{
   position: relative;
-  left: 1000px;
-  bottom: 400px;
+  left: 8000px;
+  bottom: 300px;
 }
 
 
@@ -119,5 +119,5 @@ text-align: left;
 .img{
   position: fixed;
   left: 1150px;
-  bottom: 800px;
+  bottom: 700px;
   }
