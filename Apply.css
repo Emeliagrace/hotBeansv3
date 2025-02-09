@@ -70,7 +70,7 @@ position: sticky;
     margin-right: 16px;
     font-size: 17px;
     position: relative;
-    right: 500px;
+    right: 550px;
   }
 
 
@@ -133,5 +133,5 @@ font-size: large;
 .jobspecs{
 position: relative;
 top: 300px;
-left: 900px;
+left: 1100px;
 }

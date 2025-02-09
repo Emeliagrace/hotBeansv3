@@ -53,8 +53,8 @@ text-align: left;
 
 .writerev{
   position: relative;
-  left: 900px;
-  bottom: 200px;
+  left: 1000px;
+  bottom: 400px;
 }
 
 
@@ -66,11 +66,7 @@ text-align: left;
   text-align: left;
   }
 
-.img{
-position: fixed;
-left: 1150px;
-bottom: 750px;
-}
+
 
 .rightsrev{
   background-color: rgb(177, 177, 177);
@@ -114,8 +110,14 @@ bottom: 750px;
   background-color: rgb(177, 177, 177);
   border: 2px solid rgb(255, 254, 254);
   padding: 10px;
-  max-width: 700px;
+  max-width: 800px;
   text-align: left;
   position: relative;
   top: 10px;
 }
+
+.img{
+  position: fixed;
+  left: 1150px;
+  bottom: 800px;
+  }
